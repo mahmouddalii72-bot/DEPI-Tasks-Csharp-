@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\bin\Debug\net5.0\Day2Rowaad.exe
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\bin\Debug\net5.0\Day2Rowaad.deps.json
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\bin\Debug\net5.0\Day2Rowaad.runtimeconfig.json
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\bin\Debug\net5.0\Day2Rowaad.runtimeconfig.dev.json
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\bin\Debug\net5.0\Day2Rowaad.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\bin\Debug\net5.0\Day2Rowaad.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\Day2Rowaad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\Day2Rowaad.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\Day2Rowaad.AssemblyInfo.cs
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\Day2Rowaad.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\Day2Rowaad.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\refint\Day2Rowaad.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\Day2Rowaad.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\Day2Rowaad.genruntimeconfig.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Day2Rowaad\Day2Rowaad\obj\Debug\net5.0\ref\Day2Rowaad.dll
