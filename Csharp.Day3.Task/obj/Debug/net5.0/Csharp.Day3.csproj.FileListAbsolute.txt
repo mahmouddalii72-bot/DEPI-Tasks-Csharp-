@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\bin\Debug\net5.0\Csharp.Day3.exe
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\bin\Debug\net5.0\Csharp.Day3.deps.json
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\bin\Debug\net5.0\Csharp.Day3.runtimeconfig.json
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\bin\Debug\net5.0\Csharp.Day3.runtimeconfig.dev.json
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\bin\Debug\net5.0\Csharp.Day3.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\bin\Debug\net5.0\Csharp.Day3.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\Csharp.Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\Csharp.Day3.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\Csharp.Day3.AssemblyInfo.cs
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\Csharp.Day3.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\Csharp.Day3.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\refint\Csharp.Day3.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\Csharp.Day3.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\Csharp.Day3.genruntimeconfig.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\day2\Csharp.Day3\Csharp.Day3\obj\Debug\net5.0\ref\Csharp.Day3.dll
