@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Downloads\tastDay04\bin\Debug\net5.0\tastDay04.exe
+C:\Users\Mahmoud\Downloads\tastDay04\bin\Debug\net5.0\tastDay04.deps.json
+C:\Users\Mahmoud\Downloads\tastDay04\bin\Debug\net5.0\tastDay04.runtimeconfig.json
+C:\Users\Mahmoud\Downloads\tastDay04\bin\Debug\net5.0\tastDay04.runtimeconfig.dev.json
+C:\Users\Mahmoud\Downloads\tastDay04\bin\Debug\net5.0\tastDay04.dll
+C:\Users\Mahmoud\Downloads\tastDay04\bin\Debug\net5.0\tastDay04.pdb
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\tastDay04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\tastDay04.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\tastDay04.AssemblyInfo.cs
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\tastDay04.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\tastDay04.dll
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\refint\tastDay04.dll
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\tastDay04.pdb
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\tastDay04.genruntimeconfig.cache
+C:\Users\Mahmoud\Downloads\tastDay04\obj\Debug\net5.0\ref\tastDay04.dll
