@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\Downloads\task.Day5\bin\Debug\net6.0\task.Day5.exe
+C:\Users\Mahmoud\Downloads\task.Day5\bin\Debug\net6.0\task.Day5.deps.json
+C:\Users\Mahmoud\Downloads\task.Day5\bin\Debug\net6.0\task.Day5.runtimeconfig.json
+C:\Users\Mahmoud\Downloads\task.Day5\bin\Debug\net6.0\task.Day5.dll
+C:\Users\Mahmoud\Downloads\task.Day5\bin\Debug\net6.0\task.Day5.pdb
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\task.Day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\task.Day5.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\task.Day5.AssemblyInfo.cs
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\task.Day5.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\task.Day5.dll
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\refint\task.Day5.dll
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\task.Day5.pdb
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\task.Day5.genruntimeconfig.cache
+C:\Users\Mahmoud\Downloads\task.Day5\obj\Debug\net6.0\ref\task.Day5.dll
