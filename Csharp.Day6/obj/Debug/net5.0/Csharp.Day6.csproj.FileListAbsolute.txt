@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Downloads\Csharp.Day6\bin\Debug\net5.0\Csharp.Day6.exe
+C:\Users\Mahmoud\Downloads\Csharp.Day6\bin\Debug\net5.0\Csharp.Day6.deps.json
+C:\Users\Mahmoud\Downloads\Csharp.Day6\bin\Debug\net5.0\Csharp.Day6.runtimeconfig.json
+C:\Users\Mahmoud\Downloads\Csharp.Day6\bin\Debug\net5.0\Csharp.Day6.runtimeconfig.dev.json
+C:\Users\Mahmoud\Downloads\Csharp.Day6\bin\Debug\net5.0\Csharp.Day6.dll
+C:\Users\Mahmoud\Downloads\Csharp.Day6\bin\Debug\net5.0\Csharp.Day6.pdb
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\Csharp.Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\Csharp.Day6.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\Csharp.Day6.AssemblyInfo.cs
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\Csharp.Day6.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\Csharp.Day6.dll
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\refint\Csharp.Day6.dll
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\Csharp.Day6.pdb
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\Csharp.Day6.genruntimeconfig.cache
+C:\Users\Mahmoud\Downloads\Csharp.Day6\obj\Debug\net5.0\ref\Csharp.Day6.dll
