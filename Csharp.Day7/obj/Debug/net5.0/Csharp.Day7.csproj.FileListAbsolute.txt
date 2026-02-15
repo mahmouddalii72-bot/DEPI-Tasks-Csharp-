@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\bin\Debug\net5.0\Csharp.Day7.exe
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\bin\Debug\net5.0\Csharp.Day7.deps.json
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\bin\Debug\net5.0\Csharp.Day7.runtimeconfig.json
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\bin\Debug\net5.0\Csharp.Day7.runtimeconfig.dev.json
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\bin\Debug\net5.0\Csharp.Day7.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\bin\Debug\net5.0\Csharp.Day7.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\Csharp.Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\Csharp.Day7.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\Csharp.Day7.AssemblyInfo.cs
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\Csharp.Day7.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\Csharp.Day7.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\refint\Csharp.Day7.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\Csharp.Day7.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\Csharp.Day7.genruntimeconfig.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day7\Csharp.Day7\obj\Debug\net5.0\ref\Csharp.Day7.dll
