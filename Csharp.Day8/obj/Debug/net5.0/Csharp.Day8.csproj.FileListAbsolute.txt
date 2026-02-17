@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\Csharp.Day8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\Csharp.Day8.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\Csharp.Day8.AssemblyInfo.cs
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\Csharp.Day8.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\bin\Debug\net5.0\Csharp.Day8.exe
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\bin\Debug\net5.0\Csharp.Day8.deps.json
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\bin\Debug\net5.0\Csharp.Day8.runtimeconfig.json
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\bin\Debug\net5.0\Csharp.Day8.runtimeconfig.dev.json
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\bin\Debug\net5.0\Csharp.Day8.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\bin\Debug\net5.0\Csharp.Day8.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\Csharp.Day8.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\refint\Csharp.Day8.dll
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\Csharp.Day8.pdb
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\Csharp.Day8.genruntimeconfig.cache
+C:\Users\Mahmoud\Documents\CsharpSetep\the all task\Csharp.Day8\Csharp.Day8\obj\Debug\net5.0\ref\Csharp.Day8.dll
