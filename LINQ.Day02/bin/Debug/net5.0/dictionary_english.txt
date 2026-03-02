@@ -1,0 +1,7 @@
+﻿apple
+banana
+cat
+dog
+hi
+go
+a

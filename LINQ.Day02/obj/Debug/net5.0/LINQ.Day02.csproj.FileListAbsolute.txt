@@ -1,0 +1,16 @@
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\bin\Debug\net5.0\LINQ.Day02.exe
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\bin\Debug\net5.0\LINQ.Day02.deps.json
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\bin\Debug\net5.0\LINQ.Day02.runtimeconfig.json
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\bin\Debug\net5.0\LINQ.Day02.runtimeconfig.dev.json
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\bin\Debug\net5.0\LINQ.Day02.dll
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\bin\Debug\net5.0\LINQ.Day02.pdb
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\LINQ.Day02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\LINQ.Day02.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\LINQ.Day02.AssemblyInfo.cs
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\LINQ.Day02.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\LINQ.Day02.dll
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\refint\LINQ.Day02.dll
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\LINQ.Day02.pdb
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\LINQ.Day02.genruntimeconfig.cache
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\obj\Debug\net5.0\ref\LINQ.Day02.dll
+C:\Users\Mahmoud\Documents\LINQ\Tasks\LINQ.Day02\bin\Debug\net5.0\dictionary_english.txt
